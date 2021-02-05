@@ -1,0 +1,23 @@
+OBJECT_SHARED Models/Airport/ils.xml 120.206833 22.939667 11.96 3.09
+OBJECT_SHARED Models/Airport/tacan.xml 120.204727 22.94993 16.85 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 120.206833 22.939667 11.96 180
+OBJECT_SHARED Models/Airport/localizer.xml 120.207167 22.96675 18.36 88.83
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 120.1474459 22.9625157 -3.77 0
+
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.20958671 22.95135748 18.4122 0.0 0.0 -0.0</object-line>
+    </model>
+  </models>
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.20958721 22.95090788 18.2053 0.0 0.0 -0.0</object-line>
+    </model>
+    <model>
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.20958595 22.95047759 18.0040 0.0 0.0 -0.0</object-line>
+    </model>
+    <model>
+OBJECT_STATIC Airport-RCNN/hanger.xml 120.20956898 22.95406067 16.1137 91.6 0.0 -0.0</object-line>
+    </model>
+  </models>
+
+OBJECT_STATIC Airport-RCNN/city/city.xml 120.19077302 22.99724585 7.6594 92.0 0.0 -0.0
+OBJECT_STATIC Airport-RCNN/city2/city2.ac 120.20471889 22.93075958 5.5912 96.0 0.0 -0.0</object-line>
+    </model>
+  </models>

@@ -1,0 +1,28 @@
+AC3Db
+MATERIAL "default" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "材料" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "blah"
+texture "wall.png"
+numvert 4
+-116.493641 4.420000 46.242501
+102.176359 0.000000 46.242501
+-116.493641 0.000000 46.242501
+102.176359 4.420000 46.242501
+numsurf 2
+SURF 0x30
+mat 1
+refs 3
+0 11.6494 1.0351
+1 -10.2176 0.0000
+2 11.6494 0.0000
+SURF 0x30
+mat 1
+refs 3
+1 -10.2176 0.0000
+0 11.6494 1.0351
+3 -10.2176 1.0351
+kids 0
+

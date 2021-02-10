@@ -15,266 +15,124 @@ OBJECT_SHARED Models/Airport/localizer.xml 120.368417 22.5765 7.75 181.97
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 120.3007657 22.5511849 -2.7 0
 
 OBJECT_STATIC chang-gu-world-trade-center.xml 120.314914 22.643125 29.08 20
-
 OBJECT_STATIC tuntex-sky-tower.xml 120.300291 22.61174 12.95 288
-OBJECT_STATIC Airport-RCKH/hanger1/hanger1.xml 120.33182791 22.57145016 6.6385 90.9 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/hanger2/hanger2.xml 120.33592881 22.57257058 7.0156 89.8 0.0 -0.0   
-   
-OBJECT_STATIC RampGroup.xml 120.33877426 22.57331813 7.2021 90.1 0.0 -0.0    
-     
-   
-OBJECT_STATIC lib/RampParkingStripe.xml 120.33855805 22.57263424 7.4876 90.1 0.0 -0.0    
-    
-   
-OBJECT_STATIC lib/RampParkingStripe.xml 120.33849114 22.57193486 7.8640 90.2 0.0 -0.0    
- 
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33873327 22.57193682 7.9065 0.0 0.0 -0.0    
-   
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33876810 22.57263960 7.5123 0.0 0.0 -0.0    
-    
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33879038 22.57320980 7.1439 0.0 0.0 -0.0    
-    
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33924501 22.57203515 7.9336 0.0 0.0 -0.0    
-     
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33926756 22.57260419 7.5909 0.0 0.0 -0.0    
-  
+OBJECT_STATIC Airport-RCKH/redwhite_concrete_20m/redwhite_concrete_20m.ac 120.33182791 22.57145016 6.6385 90.9 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/hanger2/hanger2.xml 120.33592881 22.57257058 7.0156 89.8 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/City3/City3.xml 120.34840858 22.57062029 4.7039 90.9 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/City2/City2.xml 120.31143024 22.57114139 -4.8273 90.8 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/City4/City4.xml 120.33181428 22.57672194 1.0939 90.9 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/City1/City1.xml 120.33829790 22.57015406 -6.4799 90.9 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/UNIATE/UNIATE.xml 120.34672550 22.57140014 9.3285 89.6 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/Shippingservice/Shippingservice.xml 120.34746019 22.57214685 8.9821 89.9 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/KHHANGER/KHHANGER.xml 120.33674056 22.57280253 6.7482 89.5 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/Terminal/Terminal.xml 120.34252957 22.57197556 6.4512 88.8 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/wall1.ac 120.34264260 22.57134382 6.7413 91.0 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/wall2.ac 120.33778110 22.57110849 7.0151 268.5 0.0 -0.0
+OBJECT_STATIC RampGroup.xml 120.33877426 22.57331813 7.2021 90.1 0.0 -0.0            
+OBJECT_STATIC lib/RampParkingStripe.xml 120.33855805 22.57263424 7.4876 90.1 0.0 -0.0          
+OBJECT_STATIC lib/RampParkingStripe.xml 120.33849114 22.57193486 7.8640 90.2 0.0 -0.0 
+OBJECT_STATIC lib/RampParkingStripe.xml 120.34116211 22.57202667 8.2574 89.9 0.0 -0.0     
+OBJECT_STATIC lib/RampParkingStripe.xml 120.34116920 22.57310561 7.5808 90.0 0.0 -0.0     
+OBJECT_STATIC lib/RampParkingStripe.xml 120.33954864 22.57260167 7.6289 269.0 0.0 -0.0      
+OBJECT_STATIC lib/RampParkingStripe.xml 120.33953308 22.57311136 7.3243 270.4 0.0 -0.0      
+OBJECT_STATIC lib/RampParkingStripe.xml 120.33953252 22.57204667 7.9467 269.6 0.0 -0.0
+OBJECT_STATIC lib/RampParkingStripe.xml 120.34211359 22.57310957 7.7361 270.4 0.0 -0.0       
+OBJECT_STATIC lib/RampParkingStripe.xml 120.34211431 22.57249534 8.1217 270.1 0.0 -0.0       
+OBJECT_STATIC lib/RampParkingStripe.xml 120.34206385 22.57183322 8.5599 270.1 0.0 -0.0
+OBJECT_STATIC lib/RampParkingStripe.xml 120.34114234 22.57259076 7.8701 89.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34193239 22.57165949 8.4660 136.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34195994 22.57166786 8.4725 116.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34198623 22.57226260 8.3633 144.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34200342 22.57226294 8.3744 120.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34200184 22.57287149 8.2624 132.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34128453 22.57327935 8.0952 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34127305 22.57273072 8.1892 304.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34127924 22.57220523 8.5958 308.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33938676 22.57193010 8.0687 108.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33940002 22.57241915 8.0086 120.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33942615 22.57297360 7.9417 116.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33866722 22.57224461 8.0041 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33866422 22.57224021 8.0040 300.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33868130 22.57283614 7.9036 300.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33867468 22.57284445 7.9026 288.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33869383 22.57346913 7.7043 352.0 0.0 -0.0    
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33873327 22.57193682 7.9065 0.0 0.0 -0.0       
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33876810 22.57263960 7.5123 0.0 0.0 -0.0        
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33879038 22.57320980 7.1439 0.0 0.0 -0.0        
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33924501 22.57203515 7.9336 0.0 0.0 -0.0         
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33926756 22.57260419 7.5909 0.0 0.0 -0.0      
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33927801 22.57311658 7.2792 0.0 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/terminal/terminal.xml 120.33829790 22.57015406 -6.4799 90.9 0.0 -0.0
-OBJECT_STATIC lib/RampParkingStripe.xml 120.34116211 22.57202667 8.2574 89.9 0.0 -0.0    
- 
-OBJECT_STATIC lib/RampParkingStripe.xml 120.34116920 22.57310561 7.5808 90.0 0.0 -0.0    
- 
-OBJECT_STATIC lib/RampParkingStripe.xml 120.33954864 22.57260167 7.6289 269.0 0.0 -0.0    
-  
-OBJECT_STATIC lib/RampParkingStripe.xml 120.33953308 22.57311136 7.3243 270.4 0.0 -0.0    
-  
-OBJECT_STATIC lib/RampParkingStripe.xml 120.33953252 22.57204667 7.9467 269.6 0.0 -0.0    
-   
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34188685 22.57183577 8.5030 0.0 0.0 -0.0    
-   
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34191113 22.57249437 8.0876 0.0 0.0 -0.0    
-  
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34191304 22.57311278 7.6919 0.0 0.0 -0.0    
-  
-OBJECT_STATIC lib/RampParkingStripe.xml 120.34211359 22.57310957 7.7361 270.4 0.0 -0.0    
-   
-OBJECT_STATIC lib/RampParkingStripe.xml 120.34211431 22.57249534 8.1217 270.1 0.0 -0.0    
-   
-OBJECT_STATIC lib/RampParkingStripe.xml 120.34206385 22.57183322 8.5599 270.1 0.0 -0.0    
- 
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34308260 22.57120708 9.1066 0.0 0.0 -0.0    
- 
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34357630 22.57120863 9.1973 0.0 0.0 -0.0    
-    
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34405474 22.57120622 9.2917 0.0 0.0 -0.0    
-   
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34449261 22.57120221 9.3789 0.0 0.0 -0.0    
-  
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34493987 22.57120433 9.4625 0.0 0.0 -0.0    
-  
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34533823 22.57120380 9.5438 0.0 0.0 -0.0    
-  
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34571641 22.57120198 9.6164 0.0 0.0 -0.0    
- 
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34609953 22.57119801 9.6902 0.0 0.0 -0.0    
-  
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34368662 22.57278886 8.2013 0.0 0.0 -0.0    
-   
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34188685 22.57183577 8.5030 0.0 0.0 -0.0      
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34191113 22.57249437 8.0876 0.0 0.0 -0.0     
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34191304 22.57311278 7.6919 0.0 0.0 -0.0           
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34308260 22.57120708 9.1066 0.0 0.0 -0.0     
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34357630 22.57120863 9.1973 0.0 0.0 -0.0        
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34405474 22.57120622 9.2917 0.0 0.0 -0.0       
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34449261 22.57120221 9.3789 0.0 0.0 -0.0      
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34493987 22.57120433 9.4625 0.0 0.0 -0.0      
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34533823 22.57120380 9.5438 0.0 0.0 -0.0      
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34571641 22.57120198 9.6164 0.0 0.0 -0.0     
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34609953 22.57119801 9.6902 0.0 0.0 -0.0     
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34368662 22.57278886 8.2013 0.0 0.0 -0.0       
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34431842 22.57278283 8.3210 0.0 0.0 -0.0    
-    
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34468327 22.57278467 8.3846 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34502493 22.57278541 8.4468 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34545531 22.57296767 8.4265 0.0 0.0 -0.0    
-    
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34487949 22.57296618 8.3020 0.0 0.0 -0.0    
-    
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34432124 22.57297042 8.2001 0.0 0.0 -0.0    
-
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34380665 22.57296653 8.1084 0.0 0.0 -0.0    
- 
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34514766 22.57503447 7.0786 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34443148 22.57503735 6.9784 0.0 0.0 -0.0    
-  
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34376067 22.57503871 6.8788 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34307783 22.57503480 6.7790 0.0 0.0 -0.0    
-    
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34241530 22.57503267 6.6780 0.0 0.0 -0.0    
-  
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34184207 22.57504059 6.5804 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34022721 22.57514126 6.2743 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33952431 22.57513507 6.1745 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33896813 22.57513325 6.0829 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33854518 22.57514284 6.0073 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33799606 22.57517331 5.9000 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33755555 22.57521844 5.8004 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33709035 22.57522592 5.7106 0.0 0.0 -0.0    
-    
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33666681 22.57523150 5.6313 0.0 0.0 -0.0    
-  
-OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33579014 22.57311200 6.8145 0.0 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33873764 22.57210633 7.7962 336.0 0.0 -0.0    
-    
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33873010 22.57212461 7.8022 293.2 0.0 -0.0    
-  
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33876055 22.57273444 7.4097 333.4 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33874613 22.57274870 7.4184 288.0 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33876351 22.57336456 7.0391 320.0 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33952879 22.57291102 7.3883 182.5 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33949953 22.57236453 7.6897 176.3 0.0 -0.0    
-  
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.33948265 22.57184932 8.0406 182.0 0.0 -0.0    
-    
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34134286 22.57326940 7.5209 316.0 0.0 -0.0    
-    
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34132023 22.57272101 8.0917 304.0 0.0 -0.0    
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34131738 22.57217044 8.2062 308.0 0.0 -0.0    
-   
-OBJECT_STATIC lib/RampParkingStripe.xml 120.34114234 22.57259076 7.8701 89.9 0.0 -0.0    
-   
+OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.33579014 22.57311200 6.8145 0.0 0.0 -0.0 
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34135323 22.57310646 7.5996 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34137507 22.57259097 7.9277 0.0 0.0 -0.0    
-   
 OBJECT_STATIC airport2/apronlamp16m360deg.xml 120.34135821 22.57202238 8.2840 0.0 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 120.33949239 22.57183734 8.0664 0.0 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 120.33951163 22.57234926 7.7676 0.0 0.0 -0.0    
-OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 120.33954073 22.57292222 7.4143 0.0 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34209549 22.57288656 7.8148 180.0 0.0 -0.0    
-  
-OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 120.34211044 22.57288375 7.8686 0.0 0.0 -0.0    
-  
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34203990 22.57230402 8.2177 156.0 0.0 -0.0    
-  
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34204638 22.57228859 8.2470 124.5 0.0 -0.0    
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34197925 22.57160560 8.6637 168.0 0.0 -0.0    
-   
-OBJECT_SHARED Models/Airport/Jetway/VHHH_g1.xml 120.34198713 22.57159319 8.6949 110.3 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/south1/South1.xml 120.34840858 22.57062029 4.7039 90.9 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/east1/east1.xml 120.31143024 22.57114139 -4.8273 90.8 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/east1/E1.ac 120.29161666 22.57395210 -0.1512 84.0 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/east1/E1.ac 120.28201254 22.58540710 -0.0169 84.0 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/east1/E1.ac 120.27612843 22.59304398 -0.0032 80.0 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/east1/E1.ac 120.30513052 22.55940702 -0.0015 88.0 0.0 -0.0
-OBJECT_STATIC Airport-RCKH/North1/North1.xml 120.33181428 22.57672194 1.0939 90.9 0.0 -0.0   
-OBJECT_STATIC aircraft2/cala333/CALA333.ac 120.33837955 22.57320886 7.4279 270.1 0.0 -0.0</object-line>
-    </model>
-  </models>
+OBJECT_STATIC aircraft2/cala333/CALA333.ac 120.33837955 22.57320886 7.4279 270.1 0.0 -0.0
+OBJECT_STATIC aircraft2/cal737/cal737.xml 120.33579997 22.57339558 6.6199 180.0 0.0 -0.0
+OBJECT_STATIC aircraft2/peacha320/peacha320.ac 120.34109001 22.57310534 7.5502 270.0 0.0 -0.0
+OBJECT_STATIC aircraft2/cal737/cal737.xml 120.34226250 22.57311085 7.3413 90.3 0.0 -0.0
+OBJECT_STATIC aircraft2/evaa321/EVAA321.ac 120.34101657 22.57202743 8.2302 270.0 0.0 -0.0
+OBJECT_STATIC aircraft2/csn738/csn738.ac 120.33967569 22.57259985 7.6230 88.7 -0.7 -0.0
+OBJECT_STATIC aircraft2/evamd90/evamd90.xml 120.34357185 22.57150600 8.7371 179.8 0.0 -0.0
+OBJECT_STATIC aircraft2/evaa321/evaa321.xml 120.34665573 22.57156002 9.5456 269.5 0.0 -0.0
+OBJECT_STATIC aircraft2/evamd90/evamd90.xml 120.34493697 22.57150062 9.0228 179.9 0.0 -0.0 
+OBJECT_SHARED Scenery/Models/Airport/EUROPOLES_LOCGROUND_50M.xml 120.33023237 22.57770395 5.3081 273.9 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34235767 22.57149983 8.8073 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34235124 22.57216393 8.3785 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34234908 22.57282965 7.9485 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34096743 22.57284886 7.6973 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34096637 22.57170306 8.4127 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34100416 22.57228194 8.0581 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33968476 22.57283383 7.4983 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33961573 22.57174965 8.1393 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33962861 22.57229539 7.8140 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33849752 22.57158875 8.0391 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33851557 22.57234160 7.6603 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33709182 22.57140624 7.8363 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33773910 22.57121968 6.1086 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33781637 22.57140538 7.9768 0.0 0.0 -0.0
+OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33909327 22.57120311 8.3045 0.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/office.xml 120.34588813 22.57058907 5.6579 89.6 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33308880 22.57544644 6.3006 358.8 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33191819 22.57682966 6.0383 358.6 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33075280 22.57820722 5.1431 358.5 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.32957860 22.57958439 5.1725 358.9 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33426413 22.57406630 6.3850 358.8 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33544636 22.57268605 5.9523 359.0 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33663185 22.57129979 6.5812 359.0 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33796789 22.57015702 6.4709 16.0 0.0 -0.0
+OBJECT_STATIC Airport-RCKH/road1.xml 120.33960427 22.56965921 6.4603 47.5 0.0 -0.0
+OBJECT_SHARED Models/Residential/ad2.xml 120.34896452 22.57270168 9.3648 268.8 0.0 -0.0
 
-OBJECT_STATIC aircraft2/cal737/cal737.xml 120.33579997 22.57339558 6.6199 180.0 0.0 -0.0</object-line>
-    </model>
-    <model>
-OBJECT_STATIC aircraft2/peacha320/peacha320.ac 120.34109001 22.57310534 7.5502 270.0 0.0 -0.0</object-line>
-    </model>
-
-OBJECT_STATIC aircraft2/cal737/cal737.xml 120.34226250 22.57311085 7.3413 90.3 0.0 -0.0</object-line>
-    </model>
-  </models>
-
-OBJECT_STATIC aircraft2/evaa321/EVAA321.ac 120.34101657 22.57202743 8.2302 270.0 0.0 -0.0</object-line>
-    </model>
-  </models>
-OBJECT_STATIC aircraft2/csn738/csn738.ac 120.33967569 22.57259985 7.6230 88.7 -0.7 -0.0</object-line>
-    </model>
-  </models>
-
-OBJECT_STATIC aircraft2/evamd90/evamd90.xml 120.34357185 22.57150600 8.7371 179.8 0.0 -0.0</object-line>
-    </model>
-  </models>
-OBJECT_STATIC aircraft2/evaa321/evaa321.xml 120.34665573 22.57156002 9.5456 269.5 0.0 -0.0</object-line>
-    </model>
-  </models>
-
-OBJECT_STATIC aircraft2/evamd90/evamd90.xml 120.34493697 22.57150062 9.0228 179.9 0.0 -0.0</object-line>
-    </model>
-    <model 
-OBJECT_SHARED Scenery/Models/Airport/EUROPOLES_LOCGROUND_50M.xml 120.33023237 22.57770395 5.3081 273.9 0.0 -0.0</object-line>
-    </model>
-  </models>
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34235767 22.57149983 8.8073 0.0 0.0 -0.0</object-line>
-    </model>
-  </models>
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34235124 22.57216393 8.3785 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34234908 22.57282965 7.9485 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34096743 22.57284886 7.6973 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34096637 22.57170306 8.4127 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.34100416 22.57228194 8.0581 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33968476 22.57283383 7.4983 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33961573 22.57174965 8.1393 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33962861 22.57229539 7.8140 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33849752 22.57158875 8.0391 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/Airport/cargocontainergroup1.ac 120.33851557 22.57234160 7.6603 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33709182 22.57140624 7.8363 0.0 0.0 -0.0</object-line>
-    </model>
-  </models>
-OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33773910 22.57121968 6.1086 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33781637 22.57140538 7.9768 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/carpark.ac 120.33909327 22.57120311 8.3045 0.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33493937 22.57336431 2.9076 308.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33420372 22.57424841 4.7428 308.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33369976 22.57485782 7.4865 316.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33322542 22.57543770 10.2699 308.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33246077 22.57640420 7.8742 308.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33190993 22.57706761 7.4193 304.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33143069 22.57763141 6.3569 312.0 0.0 -0.0</object-line>
-    </model>
-    <model
-OBJECT_SHARED Scenery/Models/StreetFurniture/StreetLamp5.xml 120.33115330 22.57795843 7.8422 304.0 0.0 -0.0</object-line>
-    </model>
-    <model

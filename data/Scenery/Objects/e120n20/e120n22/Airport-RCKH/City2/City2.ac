@@ -1335,7 +1335,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 711.665 3.46448 -582.671
+loc 723.407 3.46448 -570.929
 data 4
 jour
 texture "LFPG03.png"
@@ -1646,7 +1646,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1096.38 3.46448 -930.116
+loc 1119.86 3.46448 -904.284
 data 4
 jour
 texture "LFPG03.png"

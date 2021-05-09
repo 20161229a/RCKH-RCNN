@@ -14,6 +14,8 @@
     <type>textranslate</type> 
     <object-name>jour</object-name>
     <object-name>blah</object-name> 
+    <object-name>LOD_detail</object-name>
+    <object-name>LOD_rough</object-name> 
     <property>/sim/time/sun-angle-rad</property>
     <step> 1.57 </step>
     <factor>0.318471338</factor>
@@ -33,6 +35,8 @@
     <type>material</type>
     <object-name>jour</object-name>
     <object-name>blah</object-name>
+    <object-name>LOD_detail</object-name>
+    <object-name>LOD_rough</object-name> 
     <condition>
       <greater-than>
         <property>/sim/time/sun-angle-rad</property>
@@ -50,6 +54,8 @@
     <type>material</type>
     <object-name>jour</object-name>
     <object-name>blah</object-name>
+    <object-name>LOD_detail</object-name>
+    <object-name>LOD_rough</object-name> 
     <condition>
       <less-than-equals>
         <property>/sim/time/sun-angle-rad</property>

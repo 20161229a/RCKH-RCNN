@@ -2,113 +2,7 @@ AC3Db
 MATERIAL "DefaultWhite.001" rgb 1 1 1  amb 1 1 1  emis 0.5 0.5 0.5  spec 0.5 0.5 0.5  shi 64  trans 0
 MATERIAL "Material" rgb 0.8 0.8 0.8  amb 0.8 0.8 0.8  emis 0.5 0.5 0.5  spec 1 1 1  shi 32  trans 0
 OBJECT world
-kids 107
-OBJECT poly
-name "jour"
-loc -183.045 0 -10.8644
-data 4
-jour
-texture "LFPG03.png"
-crease 30.000000
-numvert 8
-1243.37 0 -270.064
-1243.38 27.4451 -270.064
-1321.37 0 -270.064
-1321.38 27.4451 -270.064
-1321.38 27.4451 -235.338
-1243.37 0 -235.338
-1243.38 27.4451 -235.338
-1321.37 0 -235.338
-numsurf 5
-SURF 0x0
-mat 1
-refs 4
-4 0.293032 0.461275
-7 0.293032 0.394025
-2 0.340182 0.394025
-3 0.340182 0.461275
-SURF 0x0
-mat 1
-refs 4
-0 0.340182 0.393925
-5 0.293032 0.393925
-6 0.293032 0.461375
-1 0.340182 0.461375
-SURF 0x0
-mat 1
-refs 4
-4 0.411132 0.002125
-3 0.456082 0.002125
-1 0.456082 0.251225
-6 0.411132 0.251225
-SURF 0x0
-mat 1
-refs 4
-1 0.178982 0.461375
-3 0.340182 0.461375
-2 0.340182 0.393925
-0 0.178982 0.393925
-SURF 0x0
-mat 1
-refs 4
-5 0.178982 0.393925
-7 0.340182 0.393925
-4 0.340182 0.461375
-6 0.178982 0.461375
-kids 0
-OBJECT poly
-name "jour"
-loc -183.045 0 -10.8644
-data 4
-jour
-texture "LFPG03.png"
-crease 30.000000
-numvert 8
-1320.28 0 -180.227
-1242.29 27.4451 -180.227
-1242.28 0 -180.227
-1320.29 27.4451 -180.227
-1320.29 27.4451 -214.953
-1320.28 0 -214.953
-1242.29 27.4451 -214.953
-1242.28 0 -214.953
-numsurf 5
-SURF 0x0
-mat 1
-refs 4
-2 0.178982 0.393925
-0 0.340182 0.393925
-3 0.340182 0.461375
-1 0.178982 0.461375
-SURF 0x0
-mat 1
-refs 4
-6 0.178982 0.461375
-4 0.340182 0.461375
-5 0.340182 0.393925
-7 0.178982 0.393925
-SURF 0x0
-mat 1
-refs 4
-3 0.411132 0.002125
-4 0.456082 0.002125
-6 0.456082 0.251225
-1 0.411132 0.251225
-SURF 0x0
-mat 1
-refs 4
-7 0.340182 0.393925
-2 0.293032 0.393925
-1 0.293032 0.461375
-6 0.340182 0.461375
-SURF 0x0
-mat 1
-refs 4
-3 0.293032 0.461275
-0 0.293032 0.394025
-5 0.340182 0.394025
-4 0.340182 0.461275
-kids 0
+kids 105
 OBJECT poly
 name "jour"
 loc 1319.28 0 61.4895
@@ -8223,7 +8117,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1870.59 0 -185.787
+loc 1881 0 -192.965
 data 4
 jour
 texture "LFPG03.png"
@@ -8276,7 +8170,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1865.29 0 -189.319
+loc 1881 0 -192.965
 data 4
 jour
 texture "LFPG03.png"
@@ -9229,7 +9123,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 710.882 -12.3337 -979.578
+loc 710.882 -12.3337 -936.341
 data 4
 jour
 texture "EDFH002.png"
@@ -9409,7 +9303,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 710.882 -12.3337 -979.578
+loc 710.882 -12.3337 -936.341
 data 4
 jour
 texture "EDFH002.png"
@@ -9589,7 +9483,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 710.882 -12.3337 -979.578
+loc 710.882 -12.3337 -936.341
 data 4
 jour
 texture "EDFH002.png"
@@ -9769,7 +9663,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 710.882 -12.3337 -979.578
+loc 710.882 -12.3337 -936.341
 data 4
 jour
 texture "EDFH002.png"
@@ -9949,7 +9843,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 710.882 -12.3337 -979.578
+loc 710.882 -12.3337 -936.341
 data 4
 jour
 texture "EDFH002.png"
@@ -10129,7 +10023,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1912.75 0 -388.968
+loc 1912.75 0 -345.732
 data 4
 jour
 texture "LFPG03.png"
@@ -10182,7 +10076,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1912.75 0 -388.968
+loc 1912.75 0 -345.732
 data 4
 jour
 texture "LFPG03.png"
@@ -10235,7 +10129,6 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 0 0 -43.2365
 data 4
 jour
 texture "LFPG03.png"
@@ -10288,7 +10181,6 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 0 0 -43.2365
 data 4
 jour
 texture "LFPG03.png"
@@ -10341,7 +10233,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1192.23 -12.3337 -936.792
+loc 1192.23 -12.3337 -893.555
 data 4
 jour
 texture "EDFH002.png"
@@ -10521,7 +10413,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1192.23 -12.3337 -936.792
+loc 1192.23 -12.3337 -893.555
 data 4
 jour
 texture "EDFH002.png"
@@ -10701,7 +10593,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1192.23 -12.3337 -936.792
+loc 1192.23 -12.3337 -893.555
 data 4
 jour
 texture "EDFH002.png"
@@ -10881,7 +10773,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1192.23 -12.3337 -936.792
+loc 1192.23 -12.3337 -893.555
 data 4
 jour
 texture "EDFH002.png"
@@ -11061,7 +10953,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1192.23 -12.3337 -936.792
+loc 1192.23 -12.3337 -893.555
 data 4
 jour
 texture "EDFH002.png"
@@ -11241,7 +11133,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1152.24 -12.3337 474.513
+loc 1160.89 -12.3337 522.073
 data 4
 jour
 texture "EDFH002.png"
@@ -11421,7 +11313,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1152.24 -12.3337 474.513
+loc 1160.89 -12.3337 522.073
 data 4
 jour
 texture "EDFH002.png"
@@ -11601,7 +11493,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1152.24 -12.3337 474.513
+loc 1160.89 -12.3337 522.073
 data 4
 jour
 texture "EDFH002.png"
@@ -11781,7 +11673,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1152.24 -12.3337 474.513
+loc 1160.89 -12.3337 522.073
 data 4
 jour
 texture "EDFH002.png"
@@ -11961,7 +11853,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1152.24 -12.3337 474.513
+loc 1160.89 -12.3337 522.073
 data 4
 jour
 texture "EDFH002.png"
@@ -12141,7 +12033,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc -96.5234 0 -9.09862
+loc -87.8762 0 38.4615
 data 4
 jour
 texture "LFPG03.png"
@@ -12194,7 +12086,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc -96.5234 0 -9.09862
+loc -87.8762 0 38.4615
 data 4
 jour
 texture "LFPG03.png"
@@ -12247,7 +12139,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 349.601 0 -1.09602
+loc 358.248 0 46.4641
 data 4
 jour
 texture "LFPG03.png"
@@ -12300,7 +12192,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 349.601 0 -1.09602
+loc 358.248 0 46.4641
 data 4
 jour
 texture "LFPG03.png"
@@ -12353,7 +12245,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1598.36 -12.3337 482.516
+loc 1607.01 -12.3337 530.076
 data 4
 jour
 texture "EDFH002.png"
@@ -12533,7 +12425,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1598.36 -12.3337 482.516
+loc 1607.01 -12.3337 530.076
 data 4
 jour
 texture "EDFH002.png"
@@ -12713,7 +12605,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1598.36 -12.3337 482.516
+loc 1607.01 -12.3337 530.076
 data 4
 jour
 texture "EDFH002.png"
@@ -12893,7 +12785,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1598.36 -12.3337 482.516
+loc 1607.01 -12.3337 530.076
 data 4
 jour
 texture "EDFH002.png"
@@ -13073,7 +12965,7 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 1598.36 -12.3337 482.516
+loc 1607.01 -12.3337 530.076
 data 4
 jour
 texture "EDFH002.png"
@@ -14913,7 +14805,6 @@ refs 4
 kids 0
 OBJECT poly
 name "jour"
-loc 0 0 -47.5601
 data 4
 jour
 texture "LFPG03.png"
